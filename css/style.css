@@ -1,0 +1,42 @@
+*{
+    font-family: montserrat;
+}
+body{
+    background:blueviolet;
+}
+.navbar-brand{
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.navbar-brand span{
+    color:red;
+    margin-right: 5px;
+}
+.nav-item .nav-link{
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.carousel-caption{
+    margin-bottom: 200px;
+}
+.carousel-caption h5{
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.carousel-caption p{
+    margin: auto;
+    width: 60%;
+    line-height: 35px;
+    margin-bottom: 10px;
+}
+.sectionpadding{
+    margin: 80px auto;
+
+}
+div.row{
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+div.contact{
+    margin-top: 65px;
+}
